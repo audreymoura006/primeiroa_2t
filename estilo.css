@@ -1,0 +1,87 @@
+body {
+   background: #FFFFFF;
+}
+h1 {
+   text-align: center;
+}
+.caixa1 {
+  position: absolute;
+  background: blue;
+  color: #d31717;
+  width: 200px;
+  height: 200px;
+  right: 0;
+  bottom: 0;
+}
+.caixa2 {
+  position: absolute;
+  background: rgb(0, 9, 128);
+  color: #f72929;
+  width: 200px;
+  height: 200px;
+  right: 205px;
+  bottom: 0;
+}
+.caixa3 {
+  position: absolute;
+  background: rgb(38, 0, 255);
+  color: #b11717;
+  width: 200px;
+  height: 200px;
+  right: 410px;
+  bottom: 0;
+}
+.caixa4 {
+  position: absolute;
+  background: yellow;
+  color: #FFFFFF;
+  width: 200px;
+  height: 200px;
+  right: 615px;
+  bottom: 0;
+}
+.menuPrincipal {
+   position: absolute;
+   top: 0;
+   left: 0;
+   background: rgb(69, 135, 139);
+   width: 100%;
+   height: 45px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background: rgb(167, 238, 53);
+  color: black;
+}
+#leao {
+  width: 14%;
+}
+.leao {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 90%;
+  height: 130px;
+  background-color: rgb(65, 53, 238);
+  margin: 20px;
+  border-color: aqua;
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+}
