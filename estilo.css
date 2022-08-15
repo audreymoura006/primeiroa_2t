@@ -1,12 +1,12 @@
 body {
-   background: #FFFFFF;
+   background: #661616;
 }
 h1 {
    text-align: center;
 }
 .caixa1 {
   position: absolute;
-  background: blue;
+  background: rgb(51, 47, 47);
   color: #d31717;
   width: 200px;
   height: 200px;
@@ -15,7 +15,7 @@ h1 {
 }
 .caixa2 {
   position: absolute;
-  background: rgb(0, 9, 128);
+  background: rgb(51, 47, 47);
   color: #f72929;
   width: 200px;
   height: 200px;
@@ -24,7 +24,7 @@ h1 {
 }
 .caixa3 {
   position: absolute;
-  background: rgb(38, 0, 255);
+  background: rgb(51, 47, 47);
   color: #b11717;
   width: 200px;
   height: 200px;
@@ -33,8 +33,8 @@ h1 {
 }
 .caixa4 {
   position: absolute;
-  background: yellow;
-  color: #FFFFFF;
+  background: rgb(51, 47, 47);
+  color: #bb0d0d;
   width: 200px;
   height: 200px;
   right: 615px;
@@ -44,7 +44,7 @@ h1 {
    position: absolute;
    top: 0;
    left: 0;
-   background: rgb(69, 135, 139);
+   background: rgb(0, 0, 0);
    width: 100%;
    height: 45px;
 }
@@ -69,18 +69,18 @@ li a:hover {
   background: rgb(167, 238, 53);
   color: black;
 }
-#leao {
+#zayn {
   width: 14%;
 }
-.leao {
+.zayn {
   position: absolute;
   top: 200px;
   left: 0;
   width: 90%;
   height: 130px;
-  background-color: rgb(65, 53, 238);
+  background-color: rgb(0, 0, 0);
   margin: 20px;
-  border-color: aqua;
+  border-color: rgb(255, 0, 34);
   border-width: 20px;
   border-style: solid;
   padding: 20px;
